@@ -1,0 +1,24 @@
+{
+  "name": "@skypro-web-developer/backend-02-template",
+  "version": "1.0.0",
+  "description": "Шаблон для выполнения второго домашнего задания",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anabang/hw6.2.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anabang/hw6.2/issues"
+  },
+  "homepage": "https://github.com/anabang/hw6.2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
